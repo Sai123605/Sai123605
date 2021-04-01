@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm N.Sai Charan! 👋
 
 - 🔭 I’m currently working on covid-19-tracker. http://192.168.1.4:3000/covid-19-tracker
 - 🌱 I’m currently learning more about web development.
