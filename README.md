@@ -1,6 +1,6 @@
 ### Hello, I'm N.Sai Charan! 👋
 
-- 🔭 I’m currently working on covid-19-tracker. https://sai123605.github.io/covid-19-tracker/
+- 🔭 Successfully completed covid-19-tracker. https://sai123605.github.io/covid-19-tracker/
 - 🌱 I’m currently learning more about web development.
 - 🤔 I’m looking for help with react documentation.
 - 💬 Ask me about web development or any tech related stuff.
