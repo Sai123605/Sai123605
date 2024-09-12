@@ -1,8 +1,7 @@
 ### Hello, I'm N.Sai Charan! 👋
 
 - 🔭 Successfully completed covid-19-tracker. https://sai123605.github.io/covid-19-tracker/
-- 🌱 I’m currently learning more about web development.
-- 🤔 I’m looking for help with react documentation.
+- 🌱 web development angular with typescript,HTLM and CSS.
 - 💬 Ask me about web development or any tech related stuff.
 - 📫 How to reach me: [Twitter- @SaiChar48189687](https://twitter.com/SaiChar48189687)
 - ⚡ Fun fact: The world wastes about 1 billion metric tons of food each year.
